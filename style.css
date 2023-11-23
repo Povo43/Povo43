@@ -75,7 +75,7 @@ height: 100vh; /* 全画面表示 */
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center center;
-background-image: url();
+background-image: url(mima-3.jpeg);
 }
 
 /* 黒の背景 */
@@ -84,7 +84,7 @@ background-image: url();
 position: absolute;
 top: 0;
 left: 0;
-display: block;
+display: #0b4b3b;
 width: 100%;
 height: 100%;
 content: "";
