@@ -82,6 +82,7 @@ background-image: url(mima-3.jpeg);
 
 .overlay::after {
 position: absolute;
+background-color: #0b4b3b;
 top: 0;
 left: 0;
 width: 100%;
