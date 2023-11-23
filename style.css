@@ -71,7 +71,7 @@ margin-top: 40px;;
 /* 全画面表示CSS */
 
 .hero {
-height: 100vh; /* 全画面表示 */
+height: 100%; /* 全画面表示 */
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center center;
