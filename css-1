@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/philosopher/v19/vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf) format('truetype');
+}
