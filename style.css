@@ -74,7 +74,7 @@ margin-top: 40px;;
 }
 
 .image-top{
-width:100%;
+max-width: 100%;
 }
 
 /* 黒の背景 */
