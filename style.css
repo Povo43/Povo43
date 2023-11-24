@@ -73,6 +73,10 @@ margin-top: 40px;;
 .hero {
 }
 
+.image-top{
+width:100%;
+}
+
 /* 黒の背景 */
 
 .overlay::after {
