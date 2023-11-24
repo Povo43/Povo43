@@ -71,11 +71,6 @@ margin-top: 40px;;
 /* 全画面表示CSS */
 
 .hero {
-padding: 10px;
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center center;
-background-image: url(mima-3.jpeg);
 }
 
 /* 黒の背景 */
